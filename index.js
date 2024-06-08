@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["LEGEND SAMP DEVELOPING","ADICHU KERI VAA"];
 
 
 let currentIndex = 0;
